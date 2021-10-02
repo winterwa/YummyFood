@@ -1,1 +1,1 @@
-# YummyFood: A online food order web application based Java Spring and Hibernate
+# YummyFood: A online food order web application based on Java Spring and Hibernate
